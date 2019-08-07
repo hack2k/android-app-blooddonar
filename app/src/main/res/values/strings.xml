@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">blood donar</string>
+    <string-array name="bg">
+        <item>Select</item>
+        <item>A+</item>
+        <item>AB+</item>
+        <item>O+</item>
+        <item>A-</item>
+        <item>AB-</item>
+        <item>B-</item>
+        <item>O-</item>
+    </string-array>
+
+    <string-array name="city">
+        <item>Select</item>
+        <item>Jabalpur</item>
+        <item>Indore</item>
+        <item>New delhi</item>
+        <item> Indore</item>
+        <item> raipur</item>
+
+    </string-array>
+</resources>
